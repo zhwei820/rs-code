@@ -23,6 +23,7 @@ impl Solution {
             if sum <= k {
                 res = res.max(end - start);
             }
+            println!("{start} {end} {:?}", a)
         }
         res as i32
     }
@@ -34,12 +35,13 @@ fn test() {
     let k = 2;
     let res = 6;
     assert_eq!(Solution::longest_ones(a, k), res);
-    let a = vec![0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1];
-    let k = 3;
-    let res = 10;
-    assert_eq!(Solution::longest_ones(a, k), res);
-    let a = vec![0, 0, 0, 1];
-    let k = 4;
-    let res = 4;
-    assert_eq!(Solution::longest_ones(a, k), res);
+
+    // let a = vec![0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1];
+    // let k = 3;
+    // let res = 10;
+    // assert_eq!(Solution::longest_ones(a, k), res);
+    // let a = vec![0, 0, 0, 1];
+    // let k = 4;
+    // let res = 4;
+    // assert_eq!(Solution::longest_ones(a, k), res);
 }
