@@ -1,0 +1,20 @@
+[workspace]
+members = [
+    "rustgym",
+    "util",
+    "readme",
+    "server",
+    "schema",
+    "consts",
+    "characters",
+    "wasm",
+    "msg",
+    "ingest",
+    "leetcode",
+    "adventofcode",
+    "google",
+    "hackerrank",
+    "mnist-data",
+    "nes",
+    "openvgdb",
+]
