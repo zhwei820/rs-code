@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/unique-paths-2/
+// https://leetcode.cn/problems/unique-paths-ii/
 struct Solution;
 
 impl Solution {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/wiggle-sort-2/
+// https://leetcode.cn/problems/wiggle-sort-ii/
 struct Solution;
 
 impl Solution {

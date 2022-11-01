@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/two-sum-3/
+// https://leetcode.cn/problems/two-sum-iii/
 use std::collections::HashMap;
 use std::i32;
 

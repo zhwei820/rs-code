@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/shortest-word-distance-3/
+// https://leetcode.cn/problems/shortest-word-distance-iii/
 struct Solution;
 use std::collections::HashMap;
 

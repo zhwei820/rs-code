@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/trapping-rain-water-2/
+// https://leetcode.cn/problems/trapping-rain-water-ii/
 struct Solution;
 
 use std::cmp::Reverse;

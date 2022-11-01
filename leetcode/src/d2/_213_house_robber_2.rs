@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/house-robber-2/
+// https://leetcode.cn/problems/house-robber-ii/
 struct Solution;
 
 impl Solution {

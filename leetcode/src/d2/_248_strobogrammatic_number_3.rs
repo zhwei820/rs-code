@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/strobogrammatic-number-3/
+// https://leetcode.cn/problems/strobogrammatic-number-iii/
 struct Solution;
 
 impl Solution {

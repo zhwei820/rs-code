@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/longest-palindromic-subsequence-2/
+// https://leetcode.cn/problems/longest-palindromic-subsequence-ii/
 struct Solution;
 
 use std::collections::HashMap;

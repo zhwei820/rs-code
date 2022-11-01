@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/moving-stones-until-consecutive-2/
+// https://leetcode.cn/problems/moving-stones-until-consecutive-ii/
 struct Solution;
 
 impl Solution {

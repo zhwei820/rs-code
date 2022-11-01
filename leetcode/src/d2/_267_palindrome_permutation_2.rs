@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/palindrome-permutation-2/
+// https://leetcode.cn/problems/palindrome-permutation-ii/
 struct Solution;
 use std::collections::HashMap;
 

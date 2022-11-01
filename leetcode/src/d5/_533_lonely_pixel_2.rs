@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/lonely-pixel-2/
+// https://leetcode.cn/problems/lonely-pixel-ii/
 struct Solution;
 
 impl Solution {

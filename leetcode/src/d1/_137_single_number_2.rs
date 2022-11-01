@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/single-number-2/
+// https://leetcode.cn/problems/single-number-ii/
 struct Solution;
 
 impl Solution {

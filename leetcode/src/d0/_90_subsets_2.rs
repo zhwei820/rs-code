@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/subsets-2/
+// https://leetcode.cn/problems/subsets-ii/
 struct Solution;
 
 impl Solution {

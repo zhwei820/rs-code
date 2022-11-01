@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-2/
+// https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/
 struct Solution;
 
 impl Solution {

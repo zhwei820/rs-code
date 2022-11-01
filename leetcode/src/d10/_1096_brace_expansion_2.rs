@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/brace-expansion-2/
+// https://leetcode.cn/problems/brace-expansion-ii/
 struct Solution;
 use std::collections::HashSet;
 use std::iter::FromIterator;

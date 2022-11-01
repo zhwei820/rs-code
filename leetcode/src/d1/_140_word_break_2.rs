@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/word-break-2/
+// https://leetcode.cn/problems/word-break-ii/
 struct Solution;
 
 use std::collections::hash_map::DefaultHasher;

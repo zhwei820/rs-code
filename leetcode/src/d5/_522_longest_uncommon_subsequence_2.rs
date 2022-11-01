@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/longest-uncommon-subsequence-2/
+// https://leetcode.cn/problems/longest-uncommon-subsequence-ii/
 struct Solution;
 use std::cmp::Reverse;
 

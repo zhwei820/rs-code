@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/max-consecutive-ones-3/
+// https://leetcode.cn/problems/max-consecutive-ones-iii/
 struct Solution;
 
 impl Solution {

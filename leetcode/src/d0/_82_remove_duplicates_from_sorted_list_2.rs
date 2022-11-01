@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/remove-duplicates-from-sorted-list-2/
+// https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/
 struct Solution;
 use rustgym_util::*;
 

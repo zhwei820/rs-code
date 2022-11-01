@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/range-addition-2/
+// https://leetcode.cn/problems/range-addition-ii/
 struct Solution;
 
 impl Solution {

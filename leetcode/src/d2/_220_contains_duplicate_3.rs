@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/contains-duplicate-3/
+// https://leetcode.cn/problems/contains-duplicate-iii/
 struct Solution;
 use std::collections::BTreeSet;
 

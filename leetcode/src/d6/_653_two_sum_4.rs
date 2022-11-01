@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/two-sum-4/
+// https://leetcode.cn/problems/two-sum-iv/
 struct Solution;
 use rustgym_util::*;
 use std::cmp::Ordering::*;

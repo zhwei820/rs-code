@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/campus-bikes-2/
+// https://leetcode.cn/problems/campus-bikes-ii/
 struct Solution;
 
 impl Solution {

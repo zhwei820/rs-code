@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/strange-printer-2/
+// https://leetcode.cn/problems/strange-printer-ii/
 struct Solution;
 
 use std::collections::HashMap;

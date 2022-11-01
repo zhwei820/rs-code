@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/combination-sum-3/
+// https://leetcode.cn/problems/combination-sum-iii/
 struct Solution;
 
 impl Solution {

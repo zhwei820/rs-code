@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/next-greater-element-3/
+// https://leetcode.cn/problems/next-greater-element-iii/
 struct Solution;
 
 impl Solution {

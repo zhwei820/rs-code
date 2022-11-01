@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/h-index-2/
+// https://leetcode.cn/problems/h-index-ii/
 struct Solution;
 use std::cmp::Ordering::*;
 

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/cherry-pickup-2/
+// https://leetcode.cn/problems/cherry-pickup-ii/
 struct Solution;
 
 use std::collections::HashMap;

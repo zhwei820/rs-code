@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/strobogrammatic-number-2/
+// https://leetcode.cn/problems/strobogrammatic-number-ii/
 struct Solution;
 use std::collections::HashMap;
 

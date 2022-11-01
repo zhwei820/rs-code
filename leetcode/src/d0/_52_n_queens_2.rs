@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/n-queens-2/
+// https://leetcode.cn/problems/n-queens-ii/
 struct Solution;
 
 impl Solution {

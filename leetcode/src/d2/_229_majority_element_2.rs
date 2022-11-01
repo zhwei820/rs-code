@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/majority-element-2/
+// https://leetcode.cn/problems/majority-element-ii/
 struct Solution;
 
 type Pair = (i32, usize);

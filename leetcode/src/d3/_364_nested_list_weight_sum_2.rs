@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/nested-list-weight-sum-2/
+// https://leetcode.cn/problems/nested-list-weight-sum-ii/
 struct Solution;
 use rustgym_util::*;
 

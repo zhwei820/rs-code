@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/permutations-2/
+// https://leetcode.cn/problems/permutations-ii/
 struct Solution;
 
 impl Solution {

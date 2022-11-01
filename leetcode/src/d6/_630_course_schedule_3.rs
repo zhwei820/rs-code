@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/course-schedule-3/
+// https://leetcode.cn/problems/course-schedule-iii/
 struct Solution;
 
 use std::collections::BinaryHeap;

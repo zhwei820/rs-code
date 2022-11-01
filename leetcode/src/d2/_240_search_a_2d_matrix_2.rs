@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/search-a-2d-matrix-2/
+// https://leetcode.cn/problems/search-a-2d-matrix-ii/
 struct Solution;
 
 use std::cmp::Ordering::*;

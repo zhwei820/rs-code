@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/ugly-number-3/
+// https://leetcode.cn/problems/ugly-number-iii/
 struct Solution;
 
 impl Solution {

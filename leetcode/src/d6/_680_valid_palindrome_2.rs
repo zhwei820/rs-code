@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/valid-palindrome-2/
+// https://leetcode.cn/problems/valid-palindrome-ii/
 struct Solution;
 
 impl Solution {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/guess-number-higher-or-lower-2/
+// https://leetcode.cn/problems/guess-number-higher-or-lower-ii/
 struct Solution;
 use std::collections::HashMap;
 

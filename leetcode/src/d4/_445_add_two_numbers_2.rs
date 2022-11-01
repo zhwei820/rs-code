@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/add-two-numbers-2/
+// https://leetcode.cn/problems/add-two-numbers-ii/
 struct Solution;
 use rustgym_util::*;
 

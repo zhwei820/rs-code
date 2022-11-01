@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/string-compression-2/
+// https://leetcode.cn/problems/string-compression-ii/
 struct Solution;
 
 use std::collections::HashMap;

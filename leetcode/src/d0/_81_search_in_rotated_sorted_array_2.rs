@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/search-in-rotated-sorted-array-2/
+// https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/
 struct Solution;
 use std::cmp::Ordering::*;
 

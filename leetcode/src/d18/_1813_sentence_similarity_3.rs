@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/sentence-similarity-3/
+// https://leetcode.cn/problems/sentence-similarity-iii/
 struct Solution;
 
 use std::collections::VecDeque;

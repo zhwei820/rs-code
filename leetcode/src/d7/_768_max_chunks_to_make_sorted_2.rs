@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/max-chunks-to-make-sorted-2/
+// https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/
 struct Solution;
 
 impl Solution {

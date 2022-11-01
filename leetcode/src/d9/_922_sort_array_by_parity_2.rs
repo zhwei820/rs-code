@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/sort-array-by-parity-2/
+// https://leetcode.cn/problems/sort-array-by-parity-ii/
 struct Solution;
 
 impl Solution {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/word-search-2/
+// https://leetcode.cn/problems/word-search-ii/
 struct Solution;
 use std::collections::HashMap;
 

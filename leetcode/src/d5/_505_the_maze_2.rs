@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/the-maze-2/
+// https://leetcode.cn/problems/the-maze-ii/
 struct Solution;
 use std::collections::VecDeque;
 

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/max-consecutive-ones-2/
+// https://leetcode.cn/problems/max-consecutive-ones-ii/
 struct Solution;
 use std::collections::VecDeque;
 

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/remove-duplicates-from-sorted-array-2/
+// https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/
 struct Solution;
 
 impl Solution {

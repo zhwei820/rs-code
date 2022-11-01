@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/word-pattern-2/
+// https://leetcode.cn/problems/word-pattern-ii/
 struct Solution;
 use std::collections::HashSet;
 

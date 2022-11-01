@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/reverse-string-2/
+// https://leetcode.cn/problems/reverse-string-ii/
 struct Solution;
 
 impl Solution {

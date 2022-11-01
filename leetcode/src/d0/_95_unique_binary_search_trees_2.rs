@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/unique-binary-search-trees-2/
+// https://leetcode.cn/problems/unique-binary-search-trees-ii/
 struct Solution;
 use rustgym_util::*;
 

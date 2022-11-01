@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/put-boxes-into-the-warehouse-2/
+// https://leetcode.cn/problems/put-boxes-into-the-warehouse-ii/
 struct Solution;
 
 impl Solution {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/jump-game-2/
+// https://leetcode.cn/problems/jump-game-ii/
 struct Solution;
 
 impl Solution {

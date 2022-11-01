@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/course-schedule-2/
+// https://leetcode.cn/problems/course-schedule-ii/
 struct Solution;
 
 use std::collections::VecDeque;

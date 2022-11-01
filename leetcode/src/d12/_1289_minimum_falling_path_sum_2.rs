@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/minimum-falling-path-sum-2/
+// https://leetcode.cn/problems/minimum-falling-path-sum-ii/
 struct Solution;
 
 impl Solution {

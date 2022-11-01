@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/paint-house-2/
+// https://leetcode.cn/problems/paint-house-ii/
 struct Solution;
 
 impl Solution {

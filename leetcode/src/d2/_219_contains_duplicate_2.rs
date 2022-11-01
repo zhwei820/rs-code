@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/contains-duplicate-2/
+// https://leetcode.cn/problems/contains-duplicate-ii/
 struct Solution;
 
 use std::collections::HashSet;

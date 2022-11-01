@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/stone-game-4/
+// https://leetcode.cn/problems/stone-game-iv/
 struct Solution;
 
 use std::collections::HashMap;

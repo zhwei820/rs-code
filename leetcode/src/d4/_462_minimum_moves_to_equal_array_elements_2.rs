@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-2/
+// https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/
 struct Solution;
 
 impl Solution {

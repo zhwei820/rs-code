@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/flip-game-2/
+// https://leetcode.cn/problems/flip-game-ii/
 struct Solution;
 use std::collections::HashMap;
 

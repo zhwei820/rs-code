@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/reordered-power-of-2/
+// https://leetcode.cn/problems/reordered-power-of-ii/
 struct Solution;
 use std::collections::HashSet;
 

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/two-sum-2/
+// https://leetcode.cn/problems/two-sum-ii/
 struct Solution;
 
 impl Solution {

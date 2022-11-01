@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string-2/
+// https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string-ii/
 struct Solution;
 
 impl Solution {

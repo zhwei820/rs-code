@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/stone-game-3/
+// https://leetcode.cn/problems/stone-game-iii/
 struct Solution;
 use std::cmp::Ordering::*;
 use std::collections::HashMap;

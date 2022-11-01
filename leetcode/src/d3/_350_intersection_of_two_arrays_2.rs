@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/intersection-of-two-arrays-2/
+// https://leetcode.cn/problems/intersection-of-two-arrays-ii/
 struct Solution;
 
 use std::collections::HashMap;

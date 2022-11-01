@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/delete-columns-to-make-sorted-3/
+// https://leetcode.cn/problems/delete-columns-to-make-sorted-iii/
 struct Solution;
 
 impl Solution {

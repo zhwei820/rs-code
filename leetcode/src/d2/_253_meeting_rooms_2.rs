@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/meeting-rooms-2/
+// https://leetcode.cn/problems/meeting-rooms-ii/
 struct Solution;
 
 use std::cmp::Ordering;

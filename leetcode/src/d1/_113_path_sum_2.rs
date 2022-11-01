@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/path-sum-2/
+// https://leetcode.cn/problems/path-sum-ii/
 struct Solution;
 use rustgym_util::*;
 

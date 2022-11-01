@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/minimum-area-rectangle-2/
+// https://leetcode.cn/problems/minimum-area-rectangle-ii/
 struct Solution;
 use std::collections::HashMap;
 

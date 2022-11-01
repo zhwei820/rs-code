@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/reverse-linked-list-2/
+// https://leetcode.cn/problems/reverse-linked-list-ii/
 struct Solution;
 use rustgym_util::*;
 

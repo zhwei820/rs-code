@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/shortest-word-distance-2/
+// https://leetcode.cn/problems/shortest-word-distance-ii/
 use std::collections::HashMap;
 use std::usize;
 

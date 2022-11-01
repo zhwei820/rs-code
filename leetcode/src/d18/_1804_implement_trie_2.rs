@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/implement-trie-2/
+// https://leetcode.cn/problems/implement-trie-ii/
 use std::collections::HashMap;
 
 #[derive(Default)]

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/smallest-range-2/
+// https://leetcode.cn/problems/smallest-range-ii/
 struct Solution;
 
 impl Solution {

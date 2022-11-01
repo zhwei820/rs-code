@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/convert-to-base-minus-2/
+// https://leetcode.cn/problems/convert-to-base-minus-ii/
 struct Solution;
 
 impl Solution {

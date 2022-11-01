@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-2/
+// https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-ii/
 struct Solution;
 use rustgym_util::*;
 

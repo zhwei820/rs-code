@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/path-sum-4/
+// https://leetcode.cn/problems/path-sum-iv/
 struct Solution;
 use std::collections::HashMap;
 

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/path-sum-3/
+// https://leetcode.cn/problems/path-sum-iii/
 struct Solution;
 use rustgym_util::*;
 use std::collections::HashMap;

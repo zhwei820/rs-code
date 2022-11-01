@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/parallel-courses-2/
+// https://leetcode.cn/problems/parallel-courses-ii/
 struct Solution;
 
 struct Solver {

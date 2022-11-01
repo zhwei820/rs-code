@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/maximum-binary-tree-2/
+// https://leetcode.cn/problems/maximum-binary-tree-ii/
 struct Solution;
 use rustgym_util::*;
 

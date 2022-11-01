@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/palindrome-partitioning-4/
+// https://leetcode.cn/problems/palindrome-partitioning-iv/
 struct Solution;
 
 impl Solution {

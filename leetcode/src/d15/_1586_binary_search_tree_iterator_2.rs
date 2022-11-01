@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/binary-search-tree-iterator-2/
+// https://leetcode.cn/problems/binary-search-tree-iterator-ii/
 use rustgym_util::*;
 
 trait Inorder {

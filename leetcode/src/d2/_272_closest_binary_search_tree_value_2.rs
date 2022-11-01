@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/closest-binary-search-tree-value-2/
+// https://leetcode.cn/problems/closest-binary-search-tree-value-ii/
 struct Solution;
 use rustgym_util::*;
 

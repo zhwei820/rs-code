@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/number-of-islands-2/
+// https://leetcode.cn/problems/number-of-islands-ii/
 struct Solution;
 
 struct UnionFind {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/last-stone-weight-2/
+// https://leetcode.cn/problems/last-stone-weight-ii/
 struct Solution;
 
 impl Solution {

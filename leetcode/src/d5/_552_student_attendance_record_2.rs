@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/student-attendance-record-2/
+// https://leetcode.cn/problems/student-attendance-record-ii/
 struct Solution;
 
 const MOD: i64 = 1_000_000_007;

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/course-schedule-4/
+// https://leetcode.cn/problems/course-schedule-iv/
 struct Solution;
 use std::collections::HashSet;
 

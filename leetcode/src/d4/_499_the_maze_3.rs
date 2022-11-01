@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/the-maze-3/
+// https://leetcode.cn/problems/the-maze-iii/
 struct Solution;
 
 use std::cmp::Reverse;

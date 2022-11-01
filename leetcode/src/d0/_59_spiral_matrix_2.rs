@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/spiral-matrix-2/
+// https://leetcode.cn/problems/spiral-matrix-ii/
 struct Solution;
 
 enum Direction {

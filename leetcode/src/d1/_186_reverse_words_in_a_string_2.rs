@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/reverse-words-in-a-string-2/
+// https://leetcode.cn/problems/reverse-words-in-a-string-ii/
 struct Solution;
 
 impl Solution {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/diagonal-traversel-2/
+// https://leetcode.cn/problems/diagonal-traversel-ii/
 struct Solution;
 
 impl Solution {

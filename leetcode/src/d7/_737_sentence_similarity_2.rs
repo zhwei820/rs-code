@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/sentence-similarity-2/
+// https://leetcode.cn/problems/sentence-similarity-ii/
 struct Solution;
 
 use std::collections::HashMap;

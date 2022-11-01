@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/beautiful-arrangement-2/
+// https://leetcode.cn/problems/beautiful-arrangement-ii/
 struct Solution;
 
 impl Solution {

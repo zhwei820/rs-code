@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/jump-game-3/
+// https://leetcode.cn/problems/jump-game-iii/
 struct Solution;
 use std::collections::VecDeque;
 

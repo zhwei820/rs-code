@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/pascal-triangle-2/
+// https://leetcode.cn/problems/pascal-triangle-ii/
 struct Solution;
 
 impl Solution {

@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/coin-change-2/
+// https://leetcode.cn/problems/coin-change-ii/
 struct Solution;
 
 impl Solution {

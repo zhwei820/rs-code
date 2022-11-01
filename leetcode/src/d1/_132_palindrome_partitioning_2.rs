@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/palindrome-partitioning-2/
+// https://leetcode.cn/problems/palindrome-partitioning-ii/
 struct Solution;
 
 use std::collections::HashMap;

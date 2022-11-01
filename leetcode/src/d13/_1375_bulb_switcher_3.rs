@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/bulb-switcher-3/
+// https://leetcode.cn/problems/bulb-switcher-iii/
 struct Solution;
 
 impl Solution {
